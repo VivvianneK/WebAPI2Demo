@@ -1,0 +1,384 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stick\\Documents\\Bring global\\code\\Levelx\\WebAPI2Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11964C78-FDBB-470B-B6E8-541B61E6BAF7}|WebApplication2\\WebApplication2.csproj|c:\\users\\stick\\documents\\bring global\\code\\levelx\\webapi2demo\\webapplication2\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{11964C78-FDBB-470B-B6E8-541B61E6BAF7}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11964C78-FDBB-470B-B6E8-541B61E6BAF7}|WebApplication2\\WebApplication2.csproj|c:\\users\\stick\\documents\\bring global\\code\\levelx\\webapi2demo\\webapplication2\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11964C78-FDBB-470B-B6E8-541B61E6BAF7}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11964C78-FDBB-470B-B6E8-541B61E6BAF7}|WebApplication2\\WebApplication2.csproj|c:\\users\\stick\\documents\\bring global\\code\\levelx\\webapi2demo\\webapplication2\\dtos\\clientforupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11964C78-FDBB-470B-B6E8-541B61E6BAF7}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\dtos\\clientforupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11964C78-FDBB-470B-B6E8-541B61E6BAF7}|WebApplication2\\WebApplication2.csproj|c:\\users\\stick\\documents\\bring global\\code\\levelx\\webapi2demo\\webapplication2\\model\\orderdetailforpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11964C78-FDBB-470B-B6E8-541B61E6BAF7}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\model\\orderdetailforpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11964C78-FDBB-470B-B6E8-541B61E6BAF7}|WebApplication2\\WebApplication2.csproj|c:\\users\\stick\\documents\\bring global\\code\\levelx\\webapi2demo\\webapplication2\\model\\orderforpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11964C78-FDBB-470B-B6E8-541B61E6BAF7}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\model\\orderforpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11964C78-FDBB-470B-B6E8-541B61E6BAF7}|WebApplication2\\WebApplication2.csproj|c:\\users\\stick\\documents\\bring global\\code\\levelx\\webapi2demo\\webapplication2\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11964C78-FDBB-470B-B6E8-541B61E6BAF7}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11964C78-FDBB-470B-B6E8-541B61E6BAF7}|WebApplication2\\WebApplication2.csproj|c:\\users\\stick\\documents\\bring global\\code\\levelx\\webapi2demo\\webapplication2\\model\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11964C78-FDBB-470B-B6E8-541B61E6BAF7}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\model\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11964C78-FDBB-470B-B6E8-541B61E6BAF7}|WebApplication2\\WebApplication2.csproj|c:\\users\\stick\\documents\\bring global\\code\\levelx\\webapi2demo\\webapplication2\\controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11964C78-FDBB-470B-B6E8-541B61E6BAF7}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11964C78-FDBB-470B-B6E8-541B61E6BAF7}|WebApplication2\\WebApplication2.csproj|c:\\users\\stick\\documents\\bring global\\code\\levelx\\webapi2demo\\webapplication2\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11964C78-FDBB-470B-B6E8-541B61E6BAF7}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11964C78-FDBB-470B-B6E8-541B61E6BAF7}|WebApplication2\\WebApplication2.csproj|c:\\users\\stick\\documents\\bring global\\code\\levelx\\webapi2demo\\webapplication2\\model\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11964C78-FDBB-470B-B6E8-541B61E6BAF7}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\model\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11964C78-FDBB-470B-B6E8-541B61E6BAF7}|WebApplication2\\WebApplication2.csproj|c:\\users\\stick\\documents\\bring global\\code\\levelx\\webapi2demo\\webapplication2\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11964C78-FDBB-470B-B6E8-541B61E6BAF7}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11964C78-FDBB-470B-B6E8-541B61E6BAF7}|WebApplication2\\WebApplication2.csproj|c:\\users\\stick\\documents\\bring global\\code\\levelx\\webapi2demo\\webapplication2\\model\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11964C78-FDBB-470B-B6E8-541B61E6BAF7}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\model\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11964C78-FDBB-470B-B6E8-541B61E6BAF7}|WebApplication2\\WebApplication2.csproj|c:\\users\\stick\\documents\\bring global\\code\\levelx\\webapi2demo\\webapplication2\\dtos\\orderforupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11964C78-FDBB-470B-B6E8-541B61E6BAF7}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\dtos\\orderforupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11964C78-FDBB-470B-B6E8-541B61E6BAF7}|WebApplication2\\WebApplication2.csproj|c:\\users\\stick\\documents\\bring global\\code\\levelx\\webapi2demo\\webapplication2\\model\\productforpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11964C78-FDBB-470B-B6E8-541B61E6BAF7}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\model\\productforpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11964C78-FDBB-470B-B6E8-541B61E6BAF7}|WebApplication2\\WebApplication2.csproj|c:\\users\\stick\\documents\\bring global\\code\\levelx\\webapi2demo\\webapplication2\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11964C78-FDBB-470B-B6E8-541B61E6BAF7}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11964C78-FDBB-470B-B6E8-541B61E6BAF7}|WebApplication2\\WebApplication2.csproj|c:\\users\\stick\\documents\\bring global\\code\\levelx\\webapi2demo\\webapplication2\\dtos\\productforupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11964C78-FDBB-470B-B6E8-541B61E6BAF7}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\dtos\\productforupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11964C78-FDBB-470B-B6E8-541B61E6BAF7}|WebApplication2\\WebApplication2.csproj|c:\\users\\stick\\documents\\bring global\\code\\levelx\\webapi2demo\\webapplication2\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11964C78-FDBB-470B-B6E8-541B61E6BAF7}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11964C78-FDBB-470B-B6E8-541B61E6BAF7}|WebApplication2\\WebApplication2.csproj|c:\\users\\stick\\documents\\bring global\\code\\levelx\\webapi2demo\\webapplication2\\migrations\\20240326082332_initialsetup8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11964C78-FDBB-470B-B6E8-541B61E6BAF7}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\migrations\\20240326082332_initialsetup8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11964C78-FDBB-470B-B6E8-541B61E6BAF7}|WebApplication2\\WebApplication2.csproj|c:\\users\\stick\\documents\\bring global\\code\\levelx\\webapi2demo\\webapplication2\\migrations\\20240322140529_initialsetup7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11964C78-FDBB-470B-B6E8-541B61E6BAF7}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\migrations\\20240322140529_initialsetup7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11964C78-FDBB-470B-B6E8-541B61E6BAF7}|WebApplication2\\WebApplication2.csproj|c:\\users\\stick\\documents\\bring global\\code\\levelx\\webapi2demo\\webapplication2\\migrations\\20240322113643_initialsetup6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11964C78-FDBB-470B-B6E8-541B61E6BAF7}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\migrations\\20240322113643_initialsetup6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11964C78-FDBB-470B-B6E8-541B61E6BAF7}|WebApplication2\\WebApplication2.csproj|c:\\users\\stick\\documents\\bring global\\code\\levelx\\webapi2demo\\webapplication2\\migrations\\20240322075556_initialsetup3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11964C78-FDBB-470B-B6E8-541B61E6BAF7}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\migrations\\20240322075556_initialsetup3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11964C78-FDBB-470B-B6E8-541B61E6BAF7}|WebApplication2\\WebApplication2.csproj|c:\\users\\stick\\documents\\bring global\\code\\levelx\\webapi2demo\\webapplication2\\migrations\\20240322073927_initialsetup2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11964C78-FDBB-470B-B6E8-541B61E6BAF7}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\migrations\\20240322073927_initialsetup2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\stick\\Documents\\Bring global\\code\\Levelx\\WebAPI2Demo\\WebApplication2\\.gitignore",
+              "RelativeDocumentMoniker": "WebApplication2\\.gitignore",
+              "ToolTip": "C:\\Users\\stick\\Documents\\Bring global\\code\\Levelx\\WebAPI2Demo\\WebApplication2\\.gitignore",
+              "RelativeToolTip": "WebApplication2\\.gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-08T10:33:25.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderForPost.cs",
+              "DocumentMoniker": "C:\\Users\\stick\\Documents\\Bring global\\code\\Levelx\\WebAPI2Demo\\WebApplication2\\Model\\OrderForPost.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Model\\OrderForPost.cs",
+              "ToolTip": "C:\\Users\\stick\\Documents\\Bring global\\code\\Levelx\\WebAPI2Demo\\WebApplication2\\Model\\OrderForPost.cs",
+              "RelativeToolTip": "WebApplication2\\Model\\OrderForPost.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T08:40:38.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\stick\\Documents\\Bring global\\code\\Levelx\\WebAPI2Demo\\WebApplication2\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Model\\Product.cs",
+              "ToolTip": "C:\\Users\\stick\\Documents\\Bring global\\code\\Levelx\\WebAPI2Demo\\WebApplication2\\Model\\Product.cs",
+              "RelativeToolTip": "WebApplication2\\Model\\Product.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T08:40:09.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderDetailForPost.cs",
+              "DocumentMoniker": "C:\\Users\\stick\\Documents\\Bring global\\code\\Levelx\\WebAPI2Demo\\WebApplication2\\Model\\OrderDetailForPost.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Model\\OrderDetailForPost.cs",
+              "ToolTip": "C:\\Users\\stick\\Documents\\Bring global\\code\\Levelx\\WebAPI2Demo\\WebApplication2\\Model\\OrderDetailForPost.cs",
+              "RelativeToolTip": "WebApplication2\\Model\\OrderDetailForPost.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:35:41.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderDetailController.cs",
+              "DocumentMoniker": "C:\\Users\\stick\\Documents\\Bring global\\code\\Levelx\\WebAPI2Demo\\WebApplication2\\Controllers\\OrderDetailController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\OrderDetailController.cs",
+              "ToolTip": "C:\\Users\\stick\\Documents\\Bring global\\code\\Levelx\\WebAPI2Demo\\WebApplication2\\Controllers\\OrderDetailController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\OrderDetailController.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAYwDAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T13:21:25.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientForUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\stick\\Documents\\Bring global\\code\\Levelx\\WebAPI2Demo\\WebApplication2\\Dtos\\ClientForUpdateDto.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Dtos\\ClientForUpdateDto.cs",
+              "ToolTip": "C:\\Users\\stick\\Documents\\Bring global\\code\\Levelx\\WebAPI2Demo\\WebApplication2\\Dtos\\ClientForUpdateDto.cs",
+              "RelativeToolTip": "WebApplication2\\Dtos\\ClientForUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T12:43:55.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Users\\stick\\Documents\\Bring global\\code\\Levelx\\WebAPI2Demo\\WebApplication2\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Users\\stick\\Documents\\Bring global\\code\\Levelx\\WebAPI2Demo\\WebApplication2\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\ClientController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T08:17:35.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\stick\\Documents\\Bring global\\code\\Levelx\\WebAPI2Demo\\WebApplication2\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Model\\Order.cs",
+              "ToolTip": "C:\\Users\\stick\\Documents\\Bring global\\code\\Levelx\\WebAPI2Demo\\WebApplication2\\Model\\Order.cs",
+              "RelativeToolTip": "WebApplication2\\Model\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T07:51:43.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\stick\\Documents\\Bring global\\code\\Levelx\\WebAPI2Demo\\WebApplication2\\Model\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Model\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\stick\\Documents\\Bring global\\code\\Levelx\\WebAPI2Demo\\WebApplication2\\Model\\OrderDetail.cs",
+              "RelativeToolTip": "WebApplication2\\Model\\OrderDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:35:48.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderForUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\stick\\Documents\\Bring global\\code\\Levelx\\WebAPI2Demo\\WebApplication2\\Dtos\\OrderForUpdate.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Dtos\\OrderForUpdate.cs",
+              "ToolTip": "C:\\Users\\stick\\Documents\\Bring global\\code\\Levelx\\WebAPI2Demo\\WebApplication2\\Dtos\\OrderForUpdate.cs",
+              "RelativeToolTip": "WebApplication2\\Dtos\\OrderForUpdate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T12:28:52.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\stick\\Documents\\Bring global\\code\\Levelx\\WebAPI2Demo\\WebApplication2\\Model\\Client.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Model\\Client.cs",
+              "ToolTip": "C:\\Users\\stick\\Documents\\Bring global\\code\\Levelx\\WebAPI2Demo\\WebApplication2\\Model\\Client.cs",
+              "RelativeToolTip": "WebApplication2\\Model\\Client.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:58:05.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\stick\\Documents\\Bring global\\code\\Levelx\\WebAPI2Demo\\WebApplication2\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\stick\\Documents\\Bring global\\code\\Levelx\\WebAPI2Demo\\WebApplication2\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAwwFMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:25:29.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\stick\\Documents\\Bring global\\code\\Levelx\\WebAPI2Demo\\WebApplication2\\Model\\DataContext.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Model\\DataContext.cs",
+              "ToolTip": "C:\\Users\\stick\\Documents\\Bring global\\code\\Levelx\\WebAPI2Demo\\WebApplication2\\Model\\DataContext.cs",
+              "RelativeToolTip": "WebApplication2\\Model\\DataContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwA4AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T12:04:59.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductForPost.cs",
+              "DocumentMoniker": "C:\\Users\\stick\\Documents\\Bring global\\code\\Levelx\\WebAPI2Demo\\WebApplication2\\Model\\ProductForPost.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Model\\ProductForPost.cs",
+              "ToolTip": "C:\\Users\\stick\\Documents\\Bring global\\code\\Levelx\\WebAPI2Demo\\WebApplication2\\Model\\ProductForPost.cs",
+              "RelativeToolTip": "WebApplication2\\Model\\ProductForPost.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T12:48:22.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductForUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\stick\\Documents\\Bring global\\code\\Levelx\\WebAPI2Demo\\WebApplication2\\Dtos\\ProductForUpdateDto.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Dtos\\ProductForUpdateDto.cs",
+              "ToolTip": "C:\\Users\\stick\\Documents\\Bring global\\code\\Levelx\\WebAPI2Demo\\WebApplication2\\Dtos\\ProductForUpdateDto.cs",
+              "RelativeToolTip": "WebApplication2\\Dtos\\ProductForUpdateDto.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T13:52:44.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\stick\\Documents\\Bring global\\code\\Levelx\\WebAPI2Demo\\WebApplication2\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\stick\\Documents\\Bring global\\code\\Levelx\\WebAPI2Demo\\WebApplication2\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAA9wGYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T11:31:40.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240326082332_initialsetup8.cs",
+              "DocumentMoniker": "C:\\Users\\stick\\Documents\\Bring global\\code\\Levelx\\WebAPI2Demo\\WebApplication2\\Migrations\\20240326082332_initialsetup8.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Migrations\\20240326082332_initialsetup8.cs",
+              "ToolTip": "C:\\Users\\stick\\Documents\\Bring global\\code\\Levelx\\WebAPI2Demo\\WebApplication2\\Migrations\\20240326082332_initialsetup8.cs",
+              "RelativeToolTip": "WebApplication2\\Migrations\\20240326082332_initialsetup8.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T08:23:32.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240322140529_initialsetup7.cs",
+              "DocumentMoniker": "C:\\Users\\stick\\Documents\\Bring global\\code\\Levelx\\WebAPI2Demo\\WebApplication2\\Migrations\\20240322140529_initialsetup7.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Migrations\\20240322140529_initialsetup7.cs",
+              "ToolTip": "C:\\Users\\stick\\Documents\\Bring global\\code\\Levelx\\WebAPI2Demo\\WebApplication2\\Migrations\\20240322140529_initialsetup7.cs",
+              "RelativeToolTip": "WebApplication2\\Migrations\\20240322140529_initialsetup7.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T14:05:29.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240322113643_initialsetup6.cs",
+              "DocumentMoniker": "C:\\Users\\stick\\Documents\\Bring global\\code\\Levelx\\WebAPI2Demo\\WebApplication2\\Migrations\\20240322113643_initialsetup6.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Migrations\\20240322113643_initialsetup6.cs",
+              "ToolTip": "C:\\Users\\stick\\Documents\\Bring global\\code\\Levelx\\WebAPI2Demo\\WebApplication2\\Migrations\\20240322113643_initialsetup6.cs",
+              "RelativeToolTip": "WebApplication2\\Migrations\\20240322113643_initialsetup6.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T11:36:43.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DataContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\stick\\Documents\\Bring global\\code\\Levelx\\WebAPI2Demo\\WebApplication2\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Migrations\\DataContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\stick\\Documents\\Bring global\\code\\Levelx\\WebAPI2Demo\\WebApplication2\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeToolTip": "WebApplication2\\Migrations\\DataContextModelSnapshot.cs",
+              "ViewState": "AQIAAMUAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:46:15.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240322075556_initialsetup3.cs",
+              "DocumentMoniker": "C:\\Users\\stick\\Documents\\Bring global\\code\\Levelx\\WebAPI2Demo\\WebApplication2\\Migrations\\20240322075556_initialsetup3.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Migrations\\20240322075556_initialsetup3.cs",
+              "ToolTip": "C:\\Users\\stick\\Documents\\Bring global\\code\\Levelx\\WebAPI2Demo\\WebApplication2\\Migrations\\20240322075556_initialsetup3.cs",
+              "RelativeToolTip": "WebApplication2\\Migrations\\20240322075556_initialsetup3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:55:56.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240322073927_initialsetup2.cs",
+              "DocumentMoniker": "C:\\Users\\stick\\Documents\\Bring global\\code\\Levelx\\WebAPI2Demo\\WebApplication2\\Migrations\\20240322073927_initialsetup2.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Migrations\\20240322073927_initialsetup2.cs",
+              "ToolTip": "C:\\Users\\stick\\Documents\\Bring global\\code\\Levelx\\WebAPI2Demo\\WebApplication2\\Migrations\\20240322073927_initialsetup2.cs",
+              "RelativeToolTip": "WebApplication2\\Migrations\\20240322073927_initialsetup2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:39:27.583Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
